@@ -1,6 +1,7 @@
 ##The Dynamo User Interface
 
 The User Interface (UI) for Dynamo is organized into five main regions, the largest of which is the workspace where we compose our visual programs.
+Dynamo 的使用者介面是由五大區域所組織而成，其中最大的區域是構成我們的視覺程序。
 
 ![User Interface Regions](images/2-2/01-UI-Regions.png)
 
@@ -9,12 +10,18 @@ The User Interface (UI) for Dynamo is organized into five main regions, the larg
 3. Library
 4. Workspace
 5. Execution Bar
+1.主選單
+2.工作欄
+3.資料庫
+4.工作區域
+5.執行欄
 
 Let's dive deeper into the UI and explore the functionality of each region.
-
+讓我們深入了解使用者介面的各大領域。
 ####Menus
 
 The Dropdown Menus are a great place to find some of the basic functionality of the Dynamo application. Like most Windows software, actions related to managing files and operations for selection and content editing are found in the first two menus. The remaining menus are more specific to Dynamo.
+按下主選單是搜尋Dynamo基本功能的好方法。就像多數Windows軟體一樣，與執行管理文件相關和和內容編輯的選項可在前兩項選單中找到。較為特殊的選項在Dynamo的其他選單中。
 
 ![Dropdown Menus](images/2-2/02-Menus.png)
 > 1. File
